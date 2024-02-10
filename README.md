@@ -36,8 +36,8 @@ Feel free to explore my repositories and reach out for collaborations or discuss
 <h2>Stats</h2>
 
 <p align="left">
-  
-![Achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafbouhadou&show_icons=true&theme=transparent)
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=achrafbouhadou&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafbouhadou&layout=compact)
 
